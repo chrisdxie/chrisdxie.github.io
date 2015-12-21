@@ -1,0 +1,121 @@
+body {
+    font-family: sans-serif;
+    background: #132431;
+    padding: 0;
+    margin: 0;
+}
+
+h1 { margin: 0; padding: 60px 10px 0 0 ; color:#bbb; text-align:right}
+h2 { font-size: medium; margin: 0; padding: 1em 0 0 0;}
+h2.date { font-size: x-small; color: #aaa; padding: 0; }
+.sidebar h2 { background: white; font-size: small; padding: 0.25em; border-top: 1px solid #eee; }
+.sidebar h3 { font-size: x-small; padding: 0; }
+
+p { line-height: 150%; }
+
+acronym { cursor: help; border-bottom: dashed 1px; }
+
+input,select {
+    background: #f2f2f2;
+    border: 1px gray dotted;
+}
+input:hover { background: white; }
+
+input.button {
+    background: #ccc;
+    border: 1px gray solid;
+}
+
+textarea {
+    border: 1px gray dotted;
+}
+
+img {
+    border: 0;
+}
+
+
+hr { border: 1px gray solid; margin: 1em 12em; }
+
+div#master {
+    width: 700px;
+    margin: 0 auto;
+
+    background: #444;
+}
+
+#header {
+    color: white;
+    background:#132431 url('header.jpg') no-repeat;
+	height:163px;
+}
+
+
+
+
+a:link { color: #14245E; text-decoration: underline; }
+a:visited { color: #14245E; text-decoration: underline; }
+a:link:hover { text-decoration: none; }
+a:visited:hover { text-decoration: none; }
+
+#content {
+    background: white;
+    border-top: #eee solid 1em;
+    min-height: 200px;
+    font-size: small;
+    color: #444;
+    text-align: justify;
+    padding: 1em 0;
+}
+html>body #content { border-top: #eee solid 1em; }
+
+div.item {
+    margin: 0 15em 0 1em;
+    border-bottom: #eee solid 1px;
+    border-right: #eee solid 1px;
+    padding: 0 1.5em 0 1em;
+}
+
+
+div.sidebar {
+
+    background: #eee;
+    width: 13em;
+    float: right;
+    margin: 0 1px 1em 0; !important
+    margin-bottom: 0;
+    color: #777;
+    clear: both;
+}
+
+div.sidebar a { font-size:12px; }
+div.sidebar p { font-size:12px; margin: 1em; }
+div.sidebar h2 { text-align: right; margin: 0; }
+div.sidebar ul { padding-left: 1.5em; font-size: 20px; margin-left: 0; text-align: left; }
+div.sidebar li a:hover { background-color:#fff;}
+div.sidebar img { display: block; margin: auto; }
+
+ul { padding: 0 0 0 3em; }
+ul.links { list-style-type: none; }
+
+div.border {
+    border: #eee solid thick;
+    border-right: none;
+}
+
+#footer {
+    background: #444;
+    color: #aaa;
+    font-size: x-small;
+    text-align: left;
+	padding:0 0 0 5px;
+	font-size:11px;
+}
+
+#bottommenu {
+    background: #444;
+    font-size: x-small;
+    text-align: center;
+    color: #aaa
+}
+#bottommenu a { color: #aaa }
