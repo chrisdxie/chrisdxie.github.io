@@ -45,8 +45,12 @@ div#master {
 }
 
 #header {
-    color: white;
+
     background:#132431 url('header.jpg') no-repeat;
+    background-size: 32%;
+    color: white;
+
+
 	height:163px;
 }
 
