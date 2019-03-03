@@ -1,0 +1,24 @@
+{% if site.data.preprints %}
+<div class="item">
+
+    <h3 class="text-muted">Preprints</h3>
+
+    <ol class="recent_news">
+        {% for item in site.data.preprints %}
+            <li>
+                <b>{{ item.title }}</b>
+                <br/>
+
+                {{ item.authors }}
+                <br/>
+
+                {% if item.pdf_link %} <a target="_blank" href="{{ item.pdf_link }}">PDF</a> &nbsp;{% endif %} 
+                {% if item.arxiv %} <a target="_blank" href="{{ item.arxiv }}">arXiv</a> &nbsp;{% endif %}
+                {% if item.code %} <a target="_blank" href="{{ item.code }}">Code</a> &nbsp;{% endif %}
+                {% if item.video_link %} <a target="_blank" href="{{ item.video_link }}">Video</a> &nbsp;{% endif %}
+                {{ item.year }}
+            </li>
+        {% endfor %}
+    </ol>
+</div>
+{% endif %}

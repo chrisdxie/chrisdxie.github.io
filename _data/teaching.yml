@@ -1,0 +1,18 @@
+# These are courses that I've taken. Sorted from most recent to oldest
+- institution: UW
+  quarter: Winter 2016
+  course_number: 
+  title: 'Coursera Specialization: Machine Learning'
+  link: https://www.coursera.org/specializations/machine-learning
+
+- institution: Berkeley
+  quarter: Spring 2015
+  course_number: CS 189/289A
+  title: Intro to Machine Learning
+  link: http://www-inst.eecs.berkeley.edu/~cs189/sp15/
+
+- institution: Berkeley
+  quarter: Spring 2014
+  course_number: CS 189/289A
+  title: Intro to Machine Learning
+  link: http://www-inst.eecs.berkeley.edu/~cs189/sp14/

@@ -1,0 +1,20 @@
+<div class="item border-bottom">
+    <h3 class="text-muted">Teaching</h3>
+    <ul class="courses_tech">
+        {% for item in site.data.teaching %}
+            <li>
+                {% if item.course_number %}
+                    {{ item.course_number }} ({{ item.institution }}, {{ item.quarter }}):
+                {% else %}
+                    {{ item.institution }}, {{ item.quarter }}: 
+                {% endif %}
+
+                {% if item.link %} 
+                    <a href="{{ item.link }}">{{ item.title }}</a>
+                {% else %}
+                    {{ item.title }}
+                {% endif %} 
+            </li>
+        {% endfor %}
+    </ul>                
+</div>  

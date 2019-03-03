@@ -1,0 +1,66 @@
+# These are courses that I've taken. Sorted from most recent to oldest
+- institution: UW
+  quarter: Spring 2017
+  course_number: CSE 522
+  title: Algorithms and Uncertainty
+  link: https://courses.cs.washington.edu/courses/cse522/17sp/
+
+- institution: UW
+  quarter: Spring 2017
+  course_number: CSE 576
+  title: Computer Vision
+  link: https://courses.cs.washington.edu/courses/cse576/17sp/
+
+- institution: UW
+  quarter: Autumn 2016
+  course_number: CSE 525
+  title: Randomized Algorithms
+  link: https://homes.cs.washington.edu/~jrl/teaching/cse525au16/index.html
+
+- institution: UW
+  quarter: Autumn 2016
+  course_number: CSE 544
+  title: Databases
+  link: https://courses.cs.washington.edu/courses/cse544/16au/
+
+- institution: UW
+  quarter: Spring 2016
+  course_number: EE 546
+  title: Convex Optimization Algorithms
+  link: http://www.ee.washington.edu/class/546/2016spr/
+
+- institution: UW
+  quarter: Spring 2016
+  course_number: CSE 547
+  title: Machine Learning for Big Data
+  link: https://courses.cs.washington.edu/courses/cse547/16sp/
+
+- institution: UW
+  quarter: Winter 2016
+  course_number: EE 578
+  title: Optimization in System Sciences
+  link: http://www.ee.washington.edu/class/578/fazel/index.html
+
+- institution: UW
+  quarter: Winter 2016
+  course_number: STAT 538
+  title: Statistical Learning
+  link: 
+
+- institution: UW
+  quarter: Autumn 2015
+  course_number: STAT 512
+  title: Statistical Inference
+  link: 
+
+- institution: UW
+  quarter: Autumn 2015
+  course_number: STAT 516
+  title: Stochastic Modeling
+  link: 
+
+- institution: Berkeley
+  quarter: Spring 2014
+  course_number: CS 281A
+  title: Statistical Learning Theory
+  link: http://www.cs.berkeley.edu/~jordan/courses/281A-spring14/

@@ -1,85 +1,32 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <link rel="stylesheet" type="text/css" href="style.css" />
-        <title>Christopher Xie</title>
-
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-          ga('create', 'UA-77233977-1', 'auto');
-          ga('send', 'pageview');
-
-        </script>
-        
-    </head>
-    <body>
-    <div id="master">
-        <div id="header">
-            <!-- <img src="header.jpg" height="150" width="auto"/> -->
-            <h1>
-            Christopher Xie
-            </h1>
-        </div>
-       
-        <div id="content">
-            <div class="sidebar"><br>
-                <h2>Main Menu</h2>
-                <ul class="links">
-                    <li><a href="index.html" >Home</a></li>
-                    <li><a href="publications.html" >Publications</a></li>
-                    <li><a href="misc.html" >Misc</a></li>
-                    <li><a href="contact.html" >Contact</a></li>
-                    <li><a target="_blank" href="ChrisXie_cv.pdf" >CV</a></li>
-                    <li><a target="_blank" href="https://chrisdxie.wordpress.com/" >Blog</a></li>
-
-                    
-                </ul>
-            </div>
-          
-           
-            <div class="item">
-                <h2>About Me</h2>
-                
-      <p>I am a second year PhD student in the Department of <a href="https://www.cs.washington.edu/">
-        Computer Science and Engineering</a>
-        at University of Washington. I am advised by <a target="_blank" href="https://www.stat.washington.edu/~ebfox/index.html">Emily Fox</a> and <a target="_blank" href="http://faculty.washington.edu/zaid/">Zaid Harchaoui</a>, and a member of the <a href="http://mode.cs.washington.edu/">MODE Lab</a>. I am interested in statistical machine learning and artificial intelligence. I completed my undergraduate studies at University of California, Berkeley,
-        in the <a href="http://www.eecs.berkeley.edu/">EECS department</a>.
-        <br/><br/>
-        I am currently supported by a National Defense Science and Engineering Graduate <a href="https://ndseg.asee.org/">(NDSEG)</a> Fellowship.
-        </p>
-            </div>
-            <div class="item">
-                <h2>News and Announcements</h2>
-                
-                <ul class="recent_news">
-                    <li>12/2016: I received the award of Best Oral Presentation at the <a target="_blank" href="https://sites.google.com/site/nipsts2016/home">NIPS Time Series Workshop</a>.</li>
-                    <li>11/2016: Our <a target="_blank" href="papers/NIPS_TS_Workshop_Cold_Start.pdf">workshop paper</a> has been accepted and selected for an oral presentation at the <a target="_blank" href="https://sites.google.com/site/nipsts2016/home">NIPS Time Series Workshop</a>.</li>
-                    <li>11/2016: A new <a target="_blank" href="https://arxiv.org/abs/1611.02365">preprint</a> on online nonstationary time series prediction has been posted to arXiv.
-                    <li>9/2016: Finished summer internship at Microsoft. </li>
-                    <li>4/2016: I have received a National Defense Science and Engineering Graduate <a href="https://ndseg.asee.org/">(NDSEG)</a> Fellowship.</li>
-                    <li>1/2016: Our <a target="_blank" href="papers/RL_PhysModel_OptimExp.pdf">paper</a> was accepted to <a href="http://icra2016.org/">ICRA 2016.</a></li>
-                    <li>9/2015: Started graduate education at University of Washington.</li>
-					<li>8/2015: Finished summer internship at Google (Project Aura, previously known as Google Glass).</li>
-                    <li>5/2015: Graduated from UC Berkeley.</li>
-                    <li>1/2015: Our <a target="_blank" href="papers/OptMotionPlan_BVP.pdf">paper</a> was accepted to <a href="http://icra2015.org/">ICRA 2015.</a></li>
-
-                    
-                </ul>
-                
-            </div>
-           
-        </div>
-
-        <div id="footer">
-        © 2015 Christopher Xie  
-        </div>
+---
+layout: default
+title: Christopher Xie
+publications: passive
+cv: passive
+misc: passive
+---
+<div class="row marketing">
+    <div class="col-sm-4">
+        <img  class="img-circle avatar" alt="Christopher Xie" src="img/chrisxie_square_photo_200px.jpeg">
     </div>
-    </body>
-</html>
+    <div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8">
+
+        <p>I am a PhD student in the <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science and Engineering</a> at the University of Washington. I am currently working with <a target="_blank" href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a>. In the past, I have been fortunate to have worked with <a target="_blank" href="https://www.stat.washington.edu/~ebfox/index.html">Emily Fox</a> and <a target="_blank" href="http://faculty.washington.edu/zaid/">Zaid Harchaoui</a>.
+        
+        I am interested in the intersection of machine learning, computer vision, and robotics.
+        
+        I completed my undergraduate studies at University of California, Berkeley, in the <a href="http://www.eecs.berkeley.edu/">EECS department</a>.
+
+        <p> I am currently supported by a National Defense Science and Engineering Graduate (<a href="https://ndseg.asee.org/">NDSEG</a>) Fellowship. </p>
+
+        <p> Contact me at chrisxie [at] cs [dot] washington [dot] edu </p>
+
+        <br><br>
+
+    </div>
+
+    {% include news_and_announcements.html %}
+        
+    </div>
+</div>
+<!-- </div> -->

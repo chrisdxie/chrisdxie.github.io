@@ -1,0 +1,68 @@
+# These are published papers. Sorted from most recent to oldest
+
+- title: Object Discovery in Videos as Foreground Motion Clustering
+  authors: Christopher Xie, Yu Xiang, Zaid Harchaoui, Dieter Fox
+  year: 2019
+  venue: IEEE Conference on Computer Vision and Pattern Recognition - CVPR
+  pdf_link: 
+  arxiv: https://arxiv.org/abs/1812.02772
+  code: 
+  video_link: 
+
+- title: A Simple Adaptive Tracker with Reminiscences
+  authors: Christopher Xie, Emily Fox, Zaid Harchaoui
+  venue: Proc. IEEE International Conference on Robotics and Automation - ICRA
+  year: 2019
+  pdf_forthcoming: True
+
+- title: <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8450033">NonSTOP&#58; A NonSTationary Online Prediction Method for Time Series</a>
+  authors: Christopher Xie, Avleen Bijral, Juan Lavista Ferres
+  venue: IEEE Signal Processing Letters
+  year: 2018
+  pdf_link: 
+  arxiv: 
+  arxiv_long: https://arxiv.org/abs/1611.02365
+  code: 
+  video_link: 
+
+- title: A Unified Framework for Long Range and Cold Start Forecasting of Seasonal Profiles in Time Series
+  authors: Christopher Xie, Alex Tank, Alec Greaves-Tunnell, Emily Fox
+  year: 2017
+  venue: arXiv
+  pdf_link: 
+  arxiv: https://arxiv.org/abs/1710.08473
+  code: 
+  video_link: 
+
+- title: A Unified Framework for Missing Data and Cold Start Prediction for Time Series Data
+  authors: Christopher Xie, Alex Tank, Emily Fox
+  venue: NeurIPS Time Series Workshop
+  year: 2016
+  award: Best Oral Presentation
+  pdf_link: /papers/NIPS_TS_Workshop_Cold_Start.pdf
+  arxiv: 
+  code: 
+  poster:
+  video_link: 
+
+- title: Model-based Reinforcement Learning with Parametrized Physical Models and Optimism-Driven Exploration
+  authors: Christopher Xie, Sachin Patil, Teodor Moldovan, Sergey Levine, Pieter Abbeel
+  venue: Proc. IEEE International Conference on Robotics and Automation - ICRA
+  year: 2016
+  award: 
+  pdf_link: /papers/RL_PhysModel_OptimExp.pdf
+  arxiv: http://arxiv.org/abs/1509.06824
+  code: 
+  poster:
+  video_link:  
+
+- title: Toward Asymptotically Optimal Motion Planning for Kinodynamic Systems using a Two-Point Boundary Value Problem Solver
+  authors: Christopher Xie, Jur van den Berg, Sachin Patil, Pieter Abbeel
+  venue: Proc. IEEE International Conference on Robotics and Automation - ICRA
+  year: 2015
+  award: 
+  pdf_link: /papers/OptMotionPlan_BVP.pdf
+  arxiv: 
+  code: 
+  poster:
+  video_link:  

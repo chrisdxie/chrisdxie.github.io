@@ -1,0 +1,16 @@
+# These are published papers. Sorted from most recent to oldest
+- title: A Unified Framework for Long Range and Cold Start Forecasting of Seasonal Profiles in Time Series
+  authors: Christopher Xie, Alex Tank, Alec Greaves-Tunnell, Emily Fox
+  year: 2017
+  pdf_link: 
+  arxiv: https://arxiv.org/abs/1710.08473
+  code: 
+  video_link: 
+
+- title: "NonSTOP: A NonSTationary Online Prediction Method for Time Series"
+  authors: Christopher Xie, Avleen Bijral, Juan Lavista Ferres
+  year: 2016
+  pdf_link: 
+  arxiv: https://arxiv.org/abs/1611.02365
+  code: 
+  video_link: 
