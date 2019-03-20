@@ -13,7 +13,9 @@
   authors: Christopher Xie, Emily Fox, Zaid Harchaoui
   venue: Proc. IEEE International Conference on Robotics and Automation - ICRA
   year: 2019
-  pdf_forthcoming: True
+  pdf_link: /papers/Simple_Adaptive_Tracker.pdf
+  video_link: https://www.youtube.com/watch?v=Y36VGioFEkc
+  code: https://github.com/chrisdxie/reminiscent_tracker
 
 - title: <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8450033">NonSTOP&#58; A NonSTationary Online Prediction Method for Time Series</a>
   authors: Christopher Xie, Avleen Bijral, Juan Lavista Ferres
