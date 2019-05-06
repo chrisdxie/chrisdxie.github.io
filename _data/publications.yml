@@ -11,7 +11,7 @@
 
 - title: A Simple Adaptive Tracker with Reminiscences
   authors: Christopher Xie, Emily Fox, Zaid Harchaoui
-  venue: Proc. IEEE International Conference on Robotics and Automation - ICRA
+  venue: IEEE International Conference on Robotics and Automation - ICRA
   year: 2019
   pdf_link: /papers/Simple_Adaptive_Tracker.pdf
   video_link: https://www.youtube.com/watch?v=Y36VGioFEkc
@@ -49,7 +49,7 @@
 
 - title: Model-based Reinforcement Learning with Parametrized Physical Models and Optimism-Driven Exploration
   authors: Christopher Xie, Sachin Patil, Teodor Moldovan, Sergey Levine, Pieter Abbeel
-  venue: Proc. IEEE International Conference on Robotics and Automation - ICRA
+  venue: IEEE International Conference on Robotics and Automation - ICRA
   year: 2016
   award: 
   pdf_link: /papers/RL_PhysModel_OptimExp.pdf
@@ -60,7 +60,7 @@
 
 - title: Toward Asymptotically Optimal Motion Planning for Kinodynamic Systems using a Two-Point Boundary Value Problem Solver
   authors: Christopher Xie, Jur van den Berg, Sachin Patil, Pieter Abbeel
-  venue: Proc. IEEE International Conference on Robotics and Automation - ICRA
+  venue: IEEE International Conference on Robotics and Automation - ICRA
   year: 2015
   award: 
   pdf_link: /papers/OptMotionPlan_BVP.pdf
