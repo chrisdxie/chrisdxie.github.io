@@ -15,6 +15,7 @@
                 {% if item.award %}<b>{{ item.award }}</b> {% endif %}
                 <br/>
 
+                {% if item.project_page %} <a target="_blank" href="{{ item.project_page }}">Project Page</a> &nbsp;{% endif %} 
                 {% if item.pdf_link %} <a target="_blank" href="{{ item.pdf_link }}">PDF</a> &nbsp;{% endif %} 
                 {% if item.pdf_forthcoming %} (PDF Forthcoming) {% endif %}
                 {% if item.arxiv %} <a target="_blank" href="{{ item.arxiv }}">arXiv</a> &nbsp;{% endif %}
