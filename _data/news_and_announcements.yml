@@ -1,4 +1,6 @@
 # These are news and announcement entries. Sorted from most recent to oldest
+- date: 9/2019
+  content: Our paper on unseen object instance segmentation has been accepted to <a target="_blank" href="https://www.robot-learning.org/home">CoRL 2019</a>. We have released code as well.
 - date: 7/2019
   content: A new <a target="_blank" href="https://arxiv.org/abs/1907.13236">preprint</a> on unseen object instance segmentation has been posted to arXiv.
 - date: 3/2019
