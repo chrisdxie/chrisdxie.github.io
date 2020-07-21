@@ -8,7 +8,7 @@
   project_page: https://rse-lab.cs.washington.edu/projects/unseen-object-instance-segmentation/
 
 - title: Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity
-  authors: William Agnew, Christopher Xie, Aaron Walsman, Octavian Murad, Caelen Wang, Siddhartha Srinivasa, Pedro Domingos
+  authors: William Agnew, Christopher Xie, Aaron Walsman, Octavian Murad, Caelen Wang, Pedro Domingos, Siddhartha Srinivasa
   venue: ICML Workshop on Object-Oriented Learning
   year: 2020
   pdf_link: /papers/Amodal_Reconstruction_Manipulation.pdf
