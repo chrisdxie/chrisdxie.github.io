@@ -6,12 +6,14 @@
   venue: arXiv
   arxiv: https://arxiv.org/abs/2007.08073
   project_page: https://rse-lab.cs.washington.edu/projects/unseen-object-instance-segmentation/
+  image: /img/uois_net_3d.png
 
 - title: Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity
   authors: William Agnew, Christopher Xie, Aaron Walsman, Octavian Murad, Caelen Wang, Pedro Domingos, Siddhartha Srinivasa
   venue: ICML Workshop on Object-Oriented Learning
   year: 2020
   pdf_link: /papers/Amodal_Reconstruction_Manipulation.pdf
+  image: /img/arm_ool_teaser.png
 
 - title: The Best of Both Modes&#58; Separately Leveraging RGB and Depth for Unseen Object Instance Segmentation
   authors: Christopher Xie, Yu Xiang, Arsalan Mousavian, Dieter Fox
@@ -21,6 +23,7 @@
   code: https://github.com/chrisdxie/uois
   video_link: https://www.youtube.com/watch?v=aZkmeGIWZVw
   project_page: https://rse-lab.cs.washington.edu/projects/unseen-object-instance-segmentation/
+  image: /img/uois_refinement.gif
 
 - title: Object Discovery in Videos as Foreground Motion Clustering
   authors: Christopher Xie, Yu Xiang, Zaid Harchaoui, Dieter Fox
@@ -28,9 +31,9 @@
   venue: IEEE Conference on Computer Vision and Pattern Recognition - CVPR
   pdf_link: 
   arxiv: https://arxiv.org/abs/1812.02772
-  code: 
   video_link: https://www.youtube.com/watch?v=OL6e91yIyR0
   poster: /posters/Object_Discovery_Poster.pdf
+  image: /img/pt_rnn.png
 
 - title: A Simple Adaptive Tracker with Reminiscences
   authors: Christopher Xie, Emily Fox, Zaid Harchaoui
@@ -40,25 +43,21 @@
   video_link: https://www.youtube.com/watch?v=Y36VGioFEkc
   code: https://github.com/chrisdxie/reminiscent_tracker
   poster: /posters/Simple_Adaptive_Tracker_Poster.pdf
+  image: /img/MTCF_in_action.gif
 
 - title: <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8450033">NonSTOP&#58; A NonSTationary Online Prediction Method for Time Series</a>
   authors: Christopher Xie, Avleen Bijral, Juan Lavista Ferres
   venue: IEEE Signal Processing Letters
   year: 2018
-  pdf_link: 
-  arxiv: 
   arxiv_long: https://arxiv.org/abs/1611.02365
-  code: 
-  video_link: 
+  image: /img/nonstop.png
 
 - title: A Unified Framework for Long Range and Cold Start Forecasting of Seasonal Profiles in Time Series
   authors: Christopher Xie, Alex Tank, Alec Greaves-Tunnell, Emily Fox
   year: 2017
   venue: arXiv
-  pdf_link: 
   arxiv: https://arxiv.org/abs/1710.08473
-  code: 
-  video_link: 
+  image: /img/cold_start_ts.png
 
 - title: A Unified Framework for Missing Data and Cold Start Prediction for Time Series Data
   authors: Christopher Xie, Alex Tank, Emily Fox
@@ -66,29 +65,24 @@
   year: 2016
   award: Best Oral Presentation
   pdf_link: /papers/NIPS_TS_Workshop_Cold_Start.pdf
-  arxiv: 
-  code: 
-  poster:
-  video_link: 
+  image: /img/cold_start_ts_ws.png
+  image_border: 1px solid black
 
 - title: Model-based Reinforcement Learning with Parametrized Physical Models and Optimism-Driven Exploration
   authors: Christopher Xie, Sachin Patil, Teodor Moldovan, Sergey Levine, Pieter Abbeel
   venue: IEEE International Conference on Robotics and Automation - ICRA
   year: 2016
-  award: 
   pdf_link: /papers/RL_PhysModel_OptimExp.pdf
   arxiv: http://arxiv.org/abs/1509.06824
-  code: 
   poster: /posters/RL_PhysModel_OptimExp_Poster.pdf
-  video_link:  
+  image: /img/mbrl_parametrized_physical.png
+  image_border: 1px solid black
 
 - title: Toward Asymptotically Optimal Motion Planning for Kinodynamic Systems using a Two-Point Boundary Value Problem Solver
   authors: Christopher Xie, Jur van den Berg, Sachin Patil, Pieter Abbeel
   venue: IEEE International Conference on Robotics and Automation - ICRA
   year: 2015
-  award: 
   pdf_link: /papers/OptMotionPlan_BVP.pdf
-  arxiv: 
   code: https://github.com/chrisdxie/rrtstar_and_trajopt
   poster: /posters/OptMotionPlan_BVP.pdf
-  video_link:  
+  image: /img/OptMotionPlan_BVP.png
