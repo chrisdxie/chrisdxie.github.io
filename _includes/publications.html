@@ -34,7 +34,7 @@
         {% for item in site.data.publications %}
         <tr>
         <td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px">
-          <img src="{{item.image}}" alt="project image" style="width:auto; height:auto; max-width:100%; border:{{item.image_border}};" >
+          <a target="_blank" href="{{item.image}}"><img src="{{item.image}}" alt="project image" style="width:auto; height:auto; max-width:100%; border:{{item.image_border}};" ></a>
         </td>
 
         <td style="padding:2.5%; width:75%; vertical-align:middle">
@@ -44,11 +44,13 @@
             {{item.authors}}
             <br/>
 
-            <i>{{ item.venue }}</i>, {{ item.year }}
-            {% if item.award %}
-            <b style="color:red">({{ item.award }})</b> 
-            {% endif %}
-            <br/>
+            {% for venue in item.venues %}
+                <i>{{ venue.name }}</i>, {{ venue.year }}
+                {% if venue.award %} 
+                    <b style="color:red">({{ venue.award }})</b> 
+                {% endif %}
+                <br/>
+            {% endfor %}
 
             {% if item.project_page %} 
             <a target="_blank" href="{{ item.project_page }}">[Project Page]</a> &nbsp;

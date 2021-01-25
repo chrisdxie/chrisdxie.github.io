@@ -1,4 +1,8 @@
 # These are news and announcement entries. Sorted from most recent to oldest
+- date: 9/2020
+  content: Our <a target="_blank" href="https://arxiv.org/abs/2007.15157">paper</a> on learning feature embeddings for unseen object instance segmentation has been accepted to <a target="_blank" href="https://www.robot-learning.org/">CoRL 2020</a>.
+- date: 9/2020
+  content: Our <a target="_blank" href="https://arxiv.org/abs/2009.13146">paper</a> on reconstruction for manipulation has been accepted for an oral presentation at <a target="_blank" href="https://www.robot-learning.org/">CoRL 2020</a>.
 - date: 7/2020
   content: A new <a target="_blank" href="https://arxiv.org/abs/2007.15157">preprint</a> on learning feature embeddings from RGB-D data has been posted to arXiv.
 - date: 7/2020

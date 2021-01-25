@@ -1,5 +1,11 @@
 # These are courses that I've taken. Sorted from most recent to oldest
 - institution: UW
+  quarter: Spring 2020
+  course_number: CSE 571
+  title: 'Robotics'
+  link: https://courses.cs.washington.edu/courses/cse571/20sp/
+
+- institution: UW
   quarter: Winter 2016
   course_number: 
   title: 'Coursera Specialization: Machine Learning'
