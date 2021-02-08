@@ -1,4 +1,8 @@
 # These are news and announcement entries. Sorted from most recent to oldest
+- date: 2/2021
+  content: Our <a target="_blank" href="https://arxiv.org/abs/2007.08073">paper</a> on 3D voting for unseen object instance segmentation has been accepted to IEEE Transactions on Robotics (T-RO)!
+- date: 12/2020
+  content: I have been invited to speak on the panel at <a target="_blank" href="https://orlrworkshop.github.io/">Object Representations for Learning and Reasoning Workshop</a> at NeurIPS, 2020.
 - date: 9/2020
   content: Our <a target="_blank" href="https://arxiv.org/abs/2007.15157">paper</a> on learning feature embeddings for unseen object instance segmentation has been accepted to <a target="_blank" href="https://www.robot-learning.org/">CoRL 2020</a>.
 - date: 9/2020

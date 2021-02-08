@@ -1,5 +1,15 @@
 # These are published papers. Sorted from most recent to oldest
 
+- title: Unseen Object Instance Segmentation for Robotic Environments
+  authors: Christopher Xie, Yu Xiang, Arsalan Mousavian, Dieter Fox
+  venues:
+    - name: To appear in IEEE Transactions on Robotics (T-RO)
+      year: 2021
+  arxiv: https://arxiv.org/abs/2007.08073
+  code: https://github.com/chrisdxie/uois
+  project_page: https://rse-lab.cs.washington.edu/projects/unseen-object-instance-segmentation/
+  image: /img/uois_net_3d_pipeline.gif
+
 - title: Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation
   authors: Yu Xiang, Christopher Xie, Arsalan Mousavian, Dieter Fox
   venues: 
@@ -9,17 +19,6 @@
   video_link: https://www.youtube.com/watch?v=pxma-x0BGpU&feature=youtu.be
   code: https://github.com/NVlabs/UnseenObjectClustering
   image: /img/UCN_example.png
-
-- title: Unseen Object Instance Segmentation for Robotic Environments
-  authors: Christopher Xie, Yu Xiang, Arsalan Mousavian, Dieter Fox
-  year: 2020
-  venues:
-    - name: arXiv
-      year: 2020
-  arxiv: https://arxiv.org/abs/2007.08073
-  code: https://github.com/chrisdxie/uois
-  project_page: https://rse-lab.cs.washington.edu/projects/unseen-object-instance-segmentation/
-  image: /img/uois_net_3d_pipeline.gif
 
 - title: Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity
   authors: William Agnew, Christopher Xie, Aaron Walsman, Octavian Murad, Caelen Wang, Pedro Domingos, Siddhartha Srinivasa
