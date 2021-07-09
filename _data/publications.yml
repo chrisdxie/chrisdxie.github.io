@@ -1,5 +1,27 @@
 # These are published papers. Sorted from most recent to oldest
 
+- title: RICE&#58; Refining Instance Masks in Cluttered Environments with Graph Neural Networks
+  authors: Christopher Xie, Arsalan Mousavian, Yu Xiang, Dieter Fox
+  venues:
+    - name: arXiv
+      year: 2021
+  arxiv: https://arxiv.org/abs/2106.15711
+  code: https://github.com/chrisdxie/rice
+  project_page: https://github.com/chrisdxie/rice
+  video_link: https://www.youtube.com/watch?v=fIM80ZqH77A
+  image: /img/rice_overview.png
+  gif: /img/rice_uncertainty_grasping.gif
+
+- title: FiG-NeRF&#58; Figure Ground Neural Radiance Fields for 3D Object Category Modelling
+  authors: Christopher Xie, Keunhong Park, Ricardo Martin-Brualla, Matthew Brown
+  venues:
+    - name: arXiv
+      year: 2021
+  arxiv: https://arxiv.org/abs/2104.08418
+  project_page: https://fig-nerf.github.io/
+  image: /img/fig_nerf_teaser.png
+  gif: /img/fig_nerf.gif
+
 - title: Unseen Object Instance Segmentation for Robotic Environments
   authors: Christopher Xie, Yu Xiang, Arsalan Mousavian, Dieter Fox
   venues:
@@ -8,7 +30,8 @@
   arxiv: https://arxiv.org/abs/2007.08073
   code: https://github.com/chrisdxie/uois
   project_page: https://rse-lab.cs.washington.edu/projects/unseen-object-instance-segmentation/
-  image: /img/uois_net_3d_pipeline.gif
+  image: /img/uois_net_3d.png
+  gif: /img/uois_net_3d_pipeline.gif
 
 - title: Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation
   authors: Yu Xiang, Christopher Xie, Arsalan Mousavian, Dieter Fox
@@ -18,7 +41,8 @@
   arxiv: https://arxiv.org/abs/2007.15157
   video_link: https://www.youtube.com/watch?v=pxma-x0BGpU&feature=youtu.be
   code: https://github.com/NVlabs/UnseenObjectClustering
-  image: /img/UCN_example.png
+  image: /img/ucn_overview.png
+  gif: /img/ucn_gif.gif
 
 - title: Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity
   authors: William Agnew, Christopher Xie, Aaron Walsman, Octavian Murad, Caelen Wang, Pedro Domingos, Siddhartha Srinivasa
@@ -31,7 +55,9 @@
       year: 2020
   arxiv: https://arxiv.org/abs/2009.13146
   code: https://github.com/wagnew3/ARM
-  image: /img/ARM_in_action.gif
+  project_page: https://github.com/wagnew3/ARM
+  image: /img/arm_overview.png
+  gif: /img/arm_in_action.gif
 
 - title: The Best of Both Modes&#58; Separately Leveraging RGB and Depth for Unseen Object Instance Segmentation
   authors: Christopher Xie, Yu Xiang, Arsalan Mousavian, Dieter Fox
@@ -42,7 +68,8 @@
   code: https://github.com/chrisdxie/uois/tree/uois2d
   video_link: https://www.youtube.com/watch?v=aZkmeGIWZVw
   project_page: https://rse-lab.cs.washington.edu/projects/unseen-object-instance-segmentation/
-  image: /img/uois_refinement.gif
+  image: /img/uois_net_architecture.png
+  gif: /img/uois_refinement.gif
 
 - title: Object Discovery in Videos as Foreground Motion Clustering
   authors: Christopher Xie, Yu Xiang, Zaid Harchaoui, Dieter Fox
@@ -54,6 +81,7 @@
   video_link: https://www.youtube.com/watch?v=OL6e91yIyR0
   poster: /posters/Object_Discovery_Poster.pdf
   image: /img/pt_rnn.png
+  gif: /img/pt_rnn_in_action.gif
 
 - title: A Simple Adaptive Tracker with Reminiscences
   authors: Christopher Xie, Emily Fox, Zaid Harchaoui
@@ -64,9 +92,10 @@
   video_link: https://www.youtube.com/watch?v=Y36VGioFEkc
   code: https://github.com/chrisdxie/reminiscent_tracker
   poster: /posters/Simple_Adaptive_Tracker_Poster.pdf
-  image: /img/MTCF_in_action.gif
+  image: /img/MTCF_overview.png
+  gif: /img/MTCF_in_action.gif
 
-- title: A NonSTationary Online Prediction Method for Time Series
+- title: NonSTOP&#58; A NonSTationary Online Prediction Method for Time Series
   authors: Christopher Xie, Avleen Bijral, Juan Lavista Ferres
   venues: 
     - name: IEEE Signal Processing Letters

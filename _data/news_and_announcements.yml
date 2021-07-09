@@ -1,4 +1,16 @@
 # These are news and announcement entries. Sorted from most recent to oldest
+- date: 7/2021
+  content: I have been selected as part of the 2021 cohort of <a target="_blank" href="https://sites.google.com/view/rsspioneers2021/">RSS Pioneers</a>!
+- date: 6/2021
+  content: A new <a target="_blank" href="https://arxiv.org/abs/2106.15711">preprint</a> on using GNNs for refining instance masks has been posted to arXiv.
+- date: 4/2021
+  content: A new <a target="_blank" href="https://arxiv.org/abs/2104.08418">preprint</a> on NeRFs for 3D Object Category Modelling has been posted to arXiv.
+- date: 4/2021
+  content: I was fortunate to be invited to give talks about my research to <a target="_blank" href="https://research.fb.com/">Facebook AI Research</a>,
+           <a target="_blank" href="https://tech.fb.com/ar-vr/">Facebook Reality Labs</a>,
+           <a target="_blank" href="https://www.qualcomm.com/research">Qualcomm</a>,
+           <a target="_blank" href="https://www.amazon.science/">Amazon</a>,
+           and <a target="_blank" href="https://deepmind.com/">DeepMind</a>.
 - date: 2/2021
   content: Our <a target="_blank" href="https://arxiv.org/abs/2007.08073">paper</a> on 3D voting for unseen object instance segmentation has been accepted to IEEE Transactions on Robotics (T-RO)!
 - date: 12/2020
@@ -25,29 +37,29 @@
   content: Our <a target="_blank" href="/papers/Simple_Adaptive_Tracker.pdf">paper</a> on object tracking has been accepted to <a target="_blank" href="https://www.icra2019.org/">ICRA 2019</a>.
 - date: 12/2018
   content: A new <a target="_blank" href="https://arxiv.org/abs/1812.02772">preprint</a> on object discovery has been posted to arXiv.
-- date: 6/2018
-  content: Our <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8450033">paper</a> on online nonstationary time series prediction was accepted to IEEE SPL.
-- date: 3/2018
-  content: Started internship at NVIDIA Robotics Research Lab.
-- date: 10/2017
-  content: A new <a target="_blank" href="https://arxiv.org/abs/1710.08473">preprint</a> on time series prediction has been posted to arXiv.
-- date: 12/2016
-  content: I received the award of Best Oral Presentation at the <a target="_blank" href="https://sites.google.com/site/nipsts2016/home">NIPS Time Series Workshop</a>.
-- date: 11/2016
-  content: Our <a target="_blank" href="papers/NIPS_TS_Workshop_Cold_Start.pdf">workshop paper</a> has been accepted and selected for an oral presentation at the <a target="_blank" href="https://sites.google.com/site/nipsts2016/home">NIPS Time Series Workshop</a>.
-- date: 11/2016
-  content: A new <a target="_blank" href="https://arxiv.org/abs/1611.02365">preprint</a> on online nonstationary time series prediction has been posted to arXiv.
-- date: 6/2016
-  content: Started summer internship at Microsoft. </li>
-- date: 4/2016
-  content: I have received a National Defense Science and Engineering Graduate <a href="https://ndseg.asee.org/">(NDSEG)</a> Fellowship.
-- date: 1/2016
-  content: Our <a target="_blank" href="papers/RL_PhysModel_OptimExp.pdf">paper</a> on model-based RL for physical systems has been accepted to <a href="http://icra2016.org/">ICRA 2016.</a>
-- date: 9/2015
-  content: Started graduate school at University of Washington.
-- date: 5/2015
-  content: Started summer internship at Google (Project Aura, previously known as Google Glass).
-- date: 5/2015
-  content: Graduated from UC Berkeley.
-- date: 1/2015
-  content: Our <a target="_blank" href="papers/OptMotionPlan_BVP.pdf">paper</a> on motion planning has been accepted to <a href="http://icra2015.org/">ICRA 2015.</a>
+# - date: 6/2018
+#   content: Our <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8450033">paper</a> on online nonstationary time series prediction was accepted to IEEE SPL.
+# - date: 3/2018
+#   content: Started internship at NVIDIA Robotics Research Lab.
+# - date: 10/2017
+#   content: A new <a target="_blank" href="https://arxiv.org/abs/1710.08473">preprint</a> on time series prediction has been posted to arXiv.
+# - date: 12/2016
+#   content: I received the award of Best Oral Presentation at the <a target="_blank" href="https://sites.google.com/site/nipsts2016/home">NIPS Time Series Workshop</a>.
+# - date: 11/2016
+#   content: Our <a target="_blank" href="papers/NIPS_TS_Workshop_Cold_Start.pdf">workshop paper</a> has been accepted and selected for an oral presentation at the <a target="_blank" href="https://sites.google.com/site/nipsts2016/home">NIPS Time Series Workshop</a>.
+# - date: 11/2016
+#   content: A new <a target="_blank" href="https://arxiv.org/abs/1611.02365">preprint</a> on online nonstationary time series prediction has been posted to arXiv.
+# - date: 6/2016
+#   content: Started summer internship at Microsoft. </li>
+# - date: 4/2016
+#   content: I have received a National Defense Science and Engineering Graduate <a href="https://ndseg.asee.org/">(NDSEG)</a> Fellowship.
+# - date: 1/2016
+#   content: Our <a target="_blank" href="papers/RL_PhysModel_OptimExp.pdf">paper</a> on model-based RL for physical systems has been accepted to <a href="http://icra2016.org/">ICRA 2016.</a>
+# - date: 9/2015
+#   content: Started graduate school at University of Washington.
+# - date: 5/2015
+#   content: Started summer internship at Google (Project Aura, previously known as Google Glass).
+# - date: 5/2015
+#   content: Graduated from UC Berkeley.
+# - date: 1/2015
+#   content: Our <a target="_blank" href="papers/OptMotionPlan_BVP.pdf">paper</a> on motion planning has been accepted to <a href="http://icra2015.org/">ICRA 2015.</a>

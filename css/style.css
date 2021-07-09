@@ -100,3 +100,26 @@ div.border-bottom {
     /*padding: 0 0em 0 0em;*/
 }
 
+
+.gif-switch .gif-switch-img {
+  -webkit-backface-visibility: hidden;
+}
+.gif-switch:hover .gif-switch-img {
+  animation: fadeOutIn 1s ease-in;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes fadeOutIn {
+  0% {
+    opacity:1;
+  }
+  50% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+
+

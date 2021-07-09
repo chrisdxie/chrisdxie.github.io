@@ -2,39 +2,30 @@
 
     <h3 class="text-muted">Publications</h3>
 
-    <!--
-    <ul class="recent_news">
-        {% for item in site.data.publications %}
-            <li>
-                <b>{{ item.title }}</b>
-                <br/>
-
-                {{ item.authors }}
-                <br/>
-
-                <i>{{ item.venue }}</i>, {{ item.year }}. 
-                {% if item.award %}<b>{{ item.award }}</b> {% endif %}
-                <br/>
-
-                {% if item.project_page %} <a target="_blank" href="{{ item.project_page }}">Project Page</a> &nbsp;{% endif %} 
-                {% if item.pdf_link %} <a target="_blank" href="{{ item.pdf_link }}">PDF</a> &nbsp;{% endif %} 
-                {% if item.pdf_forthcoming %} (PDF Forthcoming) {% endif %}
-                {% if item.arxiv %} <a target="_blank" href="{{ item.arxiv }}">arXiv</a> &nbsp;{% endif %}
-                {% if item.arxiv_long %} <a target="_blank" href="{{ item.arxiv_long }}">Long paper (arXiv)</a> &nbsp;{% endif %}
-                {% if item.code %} <a target="_blank" href="{{ item.code }}">Code</a> &nbsp;{% endif %}
-                {% if item.poster %} <a target="_blank" href="{{ item.poster }}">Poster</a> &nbsp;{% endif %}
-                {% if item.video_link %} <a target="_blank" href="{{ item.video_link }}">Video</a> &nbsp;{% endif %}
-            </li>
-            <br/>
-        {% endfor %}
-    </ul>
-    -->
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
         {% for item in site.data.publications %}
         <tr>
         <td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px">
-          <a target="_blank" href="{{item.image}}"><img src="{{item.image}}" alt="project image" style="width:auto; height:auto; max-width:100%; border:{{item.image_border}};" ></a>
+
+            {% if item.gif %}
+                <div class="gif-switch">
+                <!-- <div class="gif-switch" style="min-height:140px; display:flex"> -->
+                  <!-- add class 'gif-switch' to wrapping element, whose hover should trigger the switch -->
+                  <img src="{{item.gif}}" class="hidden"><!-- preload the gif -->
+                  <img src="{{item.image}}" 
+                       class="gif-switch-img" 
+                       data-gif-src="{{item.gif}}" 
+                       data-orig-src="{{item.image}}"
+                       style="width:auto;
+                              height:auto; 
+                              max-width:100%;
+                              margin: auto;
+                              border:{{item.image_border}};">
+                </div>
+            {% else %}
+                <img src="{{item.image}}" style="width:auto; height:auto; max-width:100%; border:{{item.image_border}};">
+            {% endif %}
         </td>
 
         <td style="padding:2.5%; width:75%; vertical-align:middle">
