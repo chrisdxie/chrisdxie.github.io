@@ -1,9 +1,29 @@
 # These are published papers. Sorted from most recent to oldest
 
+- title: Discovering and Segmenting Unseen Objects for Robot Perception
+  authors: Christopher Xie
+  venues:
+    - name: Ph.D. Thesis
+      year: 2021
+  pdf_link: /papers/Christopher_Xie_Thesis.pdf
+  image: /img/graduate_hat.jpeg
+  gif: /img/celebration_will_smith.gif
+
+- title: FiG-NeRF&#58; Figure Ground Neural Radiance Fields for 3D Object Category Modelling
+  authors: Christopher Xie, Keunhong Park, Ricardo Martin-Brualla, Matthew Brown
+  venues:
+    - name: International Conference on 3D Vision - 3DV
+      year: 2021
+  arxiv: https://arxiv.org/abs/2104.08418
+  project_page: https://fig-nerf.github.io/
+  video_link: https://www.youtube.com/watch?v=WtZxuv_hkic
+  image: /img/fig_nerf_teaser.png
+  gif: /img/fig_nerf.gif
+
 - title: RICE&#58; Refining Instance Masks in Cluttered Environments with Graph Neural Networks
   authors: Christopher Xie, Arsalan Mousavian, Yu Xiang, Dieter Fox
   venues:
-    - name: arXiv
+    - name: Conference on Robot Learning - CoRL
       year: 2021
   arxiv: https://arxiv.org/abs/2106.15711
   code: https://github.com/chrisdxie/rice
@@ -12,20 +32,20 @@
   image: /img/rice_overview.png
   gif: /img/rice_uncertainty_grasping.gif
 
-- title: FiG-NeRF&#58; Figure Ground Neural Radiance Fields for 3D Object Category Modelling
-  authors: Christopher Xie, Keunhong Park, Ricardo Martin-Brualla, Matthew Brown
+- title: Predicting Stable Configurations for Semantic Placement of Novel Objects
+  authors: Chris Paxton, Christopher Xie, Tucker Hermans, Dieter Fox
   venues:
-    - name: arXiv
+    - name: Conference on Robot Learning - CoRL
       year: 2021
-  arxiv: https://arxiv.org/abs/2104.08418
-  project_page: https://fig-nerf.github.io/
-  image: /img/fig_nerf_teaser.png
-  gif: /img/fig_nerf.gif
+  arxiv: https://arxiv.org/abs/2108.12062
+  video_link: https://www.youtube.com/watch?v=244n4iaFm28
+  image: /img/stable_placement.png
+  gif: /img/stable_placement.gif
 
 - title: Unseen Object Instance Segmentation for Robotic Environments
   authors: Christopher Xie, Yu Xiang, Arsalan Mousavian, Dieter Fox
   venues:
-    - name: To appear in IEEE Transactions on Robotics (T-RO)
+    - name: IEEE Transactions on Robotics - T-RO
       year: 2021
   arxiv: https://arxiv.org/abs/2007.08073
   code: https://github.com/chrisdxie/uois
@@ -79,7 +99,7 @@
   pdf_link: 
   arxiv: https://arxiv.org/abs/1812.02772
   video_link: https://www.youtube.com/watch?v=OL6e91yIyR0
-  poster: /posters/Object_Discovery_Poster.pdf
+  # poster: /posters/Object_Discovery_Poster.pdf
   image: /img/pt_rnn.png
   gif: /img/pt_rnn_in_action.gif
 
@@ -91,14 +111,14 @@
   pdf_link: /papers/Simple_Adaptive_Tracker.pdf
   video_link: https://www.youtube.com/watch?v=Y36VGioFEkc
   code: https://github.com/chrisdxie/reminiscent_tracker
-  poster: /posters/Simple_Adaptive_Tracker_Poster.pdf
+  # poster: /posters/Simple_Adaptive_Tracker_Poster.pdf
   image: /img/MTCF_overview.png
   gif: /img/MTCF_in_action.gif
 
 - title: NonSTOP&#58; A NonSTationary Online Prediction Method for Time Series
   authors: Christopher Xie, Avleen Bijral, Juan Lavista Ferres
   venues: 
-    - name: IEEE Signal Processing Letters
+    - name: IEEE Signal Processing Letters - SPL
       year: 2018
   arxiv: https://arxiv.org/abs/1611.02365
   pdf_link: https://ieeexplore.ieee.org/abstract/document/8450033
@@ -107,8 +127,8 @@
 - title: A Unified Framework for Long Range and Cold Start Forecasting of Seasonal Profiles in Time Series
   authors: Christopher Xie, Alex Tank, Alec Greaves-Tunnell, Emily Fox
   venues: 
-    - name: arXiv
-      year: 2017
+    # - name: arXiv
+    #   year: 2017
     - name: NeurIPS Time Series Workshop
       year: 2016
       award: Best Oral Presentation
@@ -122,7 +142,7 @@
       year: 2016
   pdf_link: /papers/RL_PhysModel_OptimExp.pdf
   arxiv: http://arxiv.org/abs/1509.06824
-  poster: /posters/RL_PhysModel_OptimExp_Poster.pdf
+  # poster: /posters/RL_PhysModel_OptimExp_Poster.pdf
   image: /img/mbrl_parametrized_physical.png
   image_border: 1px solid black
 
@@ -133,5 +153,5 @@
       year: 2015
   pdf_link: /papers/OptMotionPlan_BVP.pdf
   code: https://github.com/chrisdxie/rrtstar_and_trajopt
-  poster: /posters/OptMotionPlan_BVP.pdf
+  # poster: /posters/OptMotionPlan_BVP.pdf
   image: /img/OptMotionPlan_BVP.png

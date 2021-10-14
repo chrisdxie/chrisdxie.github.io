@@ -1,10 +1,18 @@
 # These are news and announcement entries. Sorted from most recent to oldest
+- date: 10/2021
+  content: Our paper on <a target="_blank" href="https://arxiv.org/abs/2104.08418">3D Object Category Modelling</a> has been accepted to <a target="_blank" href="https://3dv2021.surrey.ac.uk/">3DV</a>!
+- date: 9/2021
+  content: Two papers about <a target="_blank" href="https://arxiv.org/abs/2106.15711">refining instance masks</a>
+           and <a target="_blank" href="https://arxiv.org/abs/2108.12062">semantic object re-arragement</a>
+           have been accepted to <a target="_blank" href="https://www.robot-learning.org/">CoRL</a>! 
 - date: 7/2021
-  content: I have been selected as part of the 2021 cohort of <a target="_blank" href="https://sites.google.com/view/rsspioneers2021/">RSS Pioneers</a>!
-- date: 6/2021
-  content: A new <a target="_blank" href="https://arxiv.org/abs/2106.15711">preprint</a> on using GNNs for refining instance masks has been posted to arXiv.
-- date: 4/2021
-  content: A new <a target="_blank" href="https://arxiv.org/abs/2104.08418">preprint</a> on NeRFs for 3D Object Category Modelling has been posted to arXiv.
+  content: I have successfully defended my <a target="_blank" href="/papers/Christopher_Xie_Thesis.pdf">PhD thesis</a> and graduated!
+- date: 7/2021
+  content: I have been selected as part of the 2021 cohort of <a target="_blank" href="https://sites.google.com/view/rsspioneers2021/">RSS Pioneers</a>.
+# - date: 6/2021
+#   content: A new <a target="_blank" href="https://arxiv.org/abs/2106.15711">preprint</a> on using GNNs for refining instance masks has been posted to arXiv.
+# - date: 4/2021
+#   content: A new <a target="_blank" href="https://arxiv.org/abs/2104.08418">preprint</a> on NeRFs for 3D Object Category Modelling has been posted to arXiv.
 - date: 4/2021
   content: I was fortunate to be invited to give talks about my research to <a target="_blank" href="https://research.fb.com/">Facebook AI Research</a>,
            <a target="_blank" href="https://tech.fb.com/ar-vr/">Facebook Reality Labs</a>,
@@ -12,31 +20,33 @@
            <a target="_blank" href="https://www.amazon.science/">Amazon</a>,
            and <a target="_blank" href="https://deepmind.com/">DeepMind</a>.
 - date: 2/2021
-  content: Our <a target="_blank" href="https://arxiv.org/abs/2007.08073">paper</a> on 3D voting for unseen object instance segmentation has been accepted to IEEE Transactions on Robotics (T-RO)!
+  content: Our paper on <a target="_blank" href="https://arxiv.org/abs/2007.08073">3D voting for unseen object instance segmentation</a> has been accepted to IEEE Transactions on Robotics (T-RO)!
 - date: 12/2020
   content: I have been invited to speak on the panel at <a target="_blank" href="https://orlrworkshop.github.io/">Object Representations for Learning and Reasoning Workshop</a> at NeurIPS, 2020.
 - date: 9/2020
-  content: Our <a target="_blank" href="https://arxiv.org/abs/2007.15157">paper</a> on learning feature embeddings for unseen object instance segmentation has been accepted to <a target="_blank" href="https://www.robot-learning.org/">CoRL 2020</a>.
-- date: 9/2020
-  content: Our <a target="_blank" href="https://arxiv.org/abs/2009.13146">paper</a> on reconstruction for manipulation has been accepted for an oral presentation at <a target="_blank" href="https://www.robot-learning.org/">CoRL 2020</a>.
-- date: 7/2020
-  content: A new <a target="_blank" href="https://arxiv.org/abs/2007.15157">preprint</a> on learning feature embeddings from RGB-D data has been posted to arXiv.
+  content: Two papers about <a target="_blank" href="https://arxiv.org/abs/2009.13146">reconstruction for manipulation</a>
+           and <a target="_blank" href="https://arxiv.org/abs/2007.15157">learning feature embeddings for unseen object instance segmentation</a>
+           have been accepted to <a target="_blank" href="https://www.robot-learning.org/">CoRL</a>! 
+# - date: 9/2020
+#   content: Our <a target="_blank" href="https://arxiv.org/abs/2009.13146">paper</a> on reconstruction for manipulation has been accepted for an oral presentation at <a target="_blank" href="https://www.robot-learning.org/">CoRL 2020</a>.
+# - date: 7/2020
+#   content: A new <a target="_blank" href="https://arxiv.org/abs/2007.15157">preprint</a> on learning feature embeddings from RGB-D data has been posted to arXiv.
 - date: 7/2020
   content: Started internship at Google Research Seattle.
-- date: 7/2020
-  content: Our <a target="_blank" href="https://arxiv.org/abs/2007.08073">extended version</a> of UOIS-Net has been posted to arXiv. We have released code as well.
-- date: 6/2020
-  content: Our <a target="_blank" href="papers/Amodal_Reconstruction_Manipulation.pdf">workshop paper</a> has been accepted and selected for a spotlight presentation at the <a target="_blank" href="https://oolworkshop.github.io/">ICML Object-Oriented Learning Workshop</a>.
+# - date: 7/2020
+#   content: Our <a target="_blank" href="https://arxiv.org/abs/2007.08073">extended version</a> of UOIS-Net has been posted to arXiv. We have released code as well.
+# - date: 6/2020
+#   content: Our <a target="_blank" href="papers/Amodal_Reconstruction_Manipulation.pdf">workshop paper</a> has been accepted and selected for a spotlight presentation at the <a target="_blank" href="https://oolworkshop.github.io/">ICML Object-Oriented Learning Workshop</a>.
 - date: 9/2019
-  content: Our paper on unseen object instance segmentation has been accepted to <a target="_blank" href="https://www.robot-learning.org/home">CoRL 2019</a>. We have released code as well.
-- date: 7/2019
-  content: A new <a target="_blank" href="https://arxiv.org/abs/1907.13236">preprint</a> on unseen object instance segmentation has been posted to arXiv.
+  content: Our paper on <a target="_blank" href="https://arxiv.org/abs/1907.13236">unseen object instance segmentation</a> has been accepted to <a target="_blank" href="https://www.robot-learning.org/home">CoRL 2019</a>! We have released code as well.
+# - date: 7/2019
+#   content: A new <a target="_blank" href="https://arxiv.org/abs/1907.13236">preprint</a> on unseen object instance segmentation has been posted to arXiv.
 - date: 3/2019
-  content: Our paper on object discovery has been accepted to <a target="_blank" href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.
+  content: Our paper on <a target="_blank" href="https://arxiv.org/abs/1812.02772">object discovery</a> has been accepted to <a target="_blank" href="http://cvpr2019.thecvf.com/">CVPR 2019</a>!
 - date: 1/2019
-  content: Our <a target="_blank" href="/papers/Simple_Adaptive_Tracker.pdf">paper</a> on object tracking has been accepted to <a target="_blank" href="https://www.icra2019.org/">ICRA 2019</a>.
-- date: 12/2018
-  content: A new <a target="_blank" href="https://arxiv.org/abs/1812.02772">preprint</a> on object discovery has been posted to arXiv.
+  content: Our paper on <a target="_blank" href="/papers/Simple_Adaptive_Tracker.pdf">object tracking</a> has been accepted to <a target="_blank" href="https://www.icra2019.org/">ICRA 2019</a>!
+# - date: 12/2018
+#   content: A new <a target="_blank" href="https://arxiv.org/abs/1812.02772">preprint</a> on object discovery has been posted to arXiv.
 # - date: 6/2018
 #   content: Our <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8450033">paper</a> on online nonstationary time series prediction was accepted to IEEE SPL.
 # - date: 3/2018
